@@ -13,10 +13,10 @@ function Navigation(props) {
             <ul class="navbar-nav ml-auto">
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/AboutMe" ? "active" : ""
+                  props.location.pathname === "/" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/AboutMe">
+                <Link class="nav-link" to="/">
                   About Me
                   <span class="sr-only">(current)</span>
                 </Link>

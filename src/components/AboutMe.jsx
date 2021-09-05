@@ -4,7 +4,7 @@ function AboutMe() {
   return (
     <div className="AboutMe">
       <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-top">
           <div class="col-lg-6">
             <img
               class="img-fluids"

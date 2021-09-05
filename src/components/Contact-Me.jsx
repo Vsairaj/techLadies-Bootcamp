@@ -13,7 +13,7 @@ function Contact() {
               height="500px"
             />
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-6">
             <h1>Contact</h1>
             <p>
               You can contact me on +65-82610282. Alternatively, do drop me a

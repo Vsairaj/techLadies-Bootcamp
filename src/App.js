@@ -7,7 +7,7 @@ function App() {
       <Router>
         <Navigation />
         <Switch>
-          <Route path="/AboutMe" exact component={() => <AboutMe />} />
+          <Route path="/" exact component={() => <AboutMe />} />
           <Route path="/contact" exact component={() => <Contact />} />
         </Switch>
       </Router>
